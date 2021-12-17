@@ -1,0 +1,8 @@
+public class AishwaryaClass 
+{
+	public void display()
+	{
+		System.out.println("Yay!!My Class !!!");
+	}
+
+}
